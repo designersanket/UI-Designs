@@ -10,9 +10,9 @@ This is the UI/UX design for a Personal Attendance Management System (PAMS) crea
 ✅ User Profile Section with Full Details
 ✅ Dark Mode UI for a Better Experience
 
-📌 Design Tool Used
+# 📌 Design Tool Used
 Figma
-🎥 Preview
+# 🎥 Preview( Figma Prototype Linke)
 https://www.figma.com/proto/x6sRP8uKAWPA6xWWFW7je6/PAMS-UI-Design?node-id=102-216&t=0yZXfmqvRxKu9GLc-1
 
 
