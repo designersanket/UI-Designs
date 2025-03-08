@@ -43,3 +43,8 @@ https://www.figma.com/proto/x6sRP8uKAWPA6xWWFW7je6/PAMS-UI-Design?node-id=102-21
 Integration with a backend system
 Interactive animations & enhancements
 Feel free to explore the design and share your feedback!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C5C&center=true&vCenter=true&width=450&lines=Thanks+for+Visiting!+🚀" alt="Thanks for Visiting!">
+</p>
+
